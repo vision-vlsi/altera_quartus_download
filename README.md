@@ -1,6 +1,13 @@
 # altera_quartus_download
-
-https://download.altera.com/akdlm/software/acdsinst/19.1std/670/ib_installers/ModelSimSetup-19.1.0.670-windows.exe
+<h3>Download the two files</h3>
+<ol>
+ <li> 
+https://download.altera.com/akdlm/software/acdsinst/19.1std/670/ib_installers/ModelSimSetup-19.1.0.670-windows.exe </li>
+  
+<li>
+  https://github.com/fpgacademy/DESim/releases/download/v1.0.1/desim_setup.exe </li>
+  
+</ol>
 
 https://github.com/fpgacademy/DESim
 
